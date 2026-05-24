@@ -1,0 +1,9 @@
+streamlit
+groq
+pandas
+plotly
+textblob
+vaderSentiment
+PyPDF2
+matplotlib
+python-dotenv
