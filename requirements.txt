@@ -1,9 +1,4 @@
-streamlit
-groq
-pandas
-plotly
-textblob
-vaderSentiment
-PyPDF2
-matplotlib
-python-dotenv
+streamlit>=1.32.0
+groq>=0.5.0
+vaderSentiment>=3.3.2
+python-dotenv>=1.0.0
