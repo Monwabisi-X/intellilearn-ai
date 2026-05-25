@@ -274,13 +274,13 @@ VADER (`vaderSentiment`) analyses:
 
 | Filename | Content |
 |---|---|
-| `screenshot_home.png` | Home page with feature tiles and learning path selector |
-| `screenshot_tutor.png` | AI Tutor with a conversation in progress |
-| `screenshot_quiz_answering.png` | Quiz with user answering (answers hidden) |
-| `screenshot_quiz_revealed.png` | Quiz after "Reveal Answers" with score shown |
-| `screenshot_notes.png` | Notes Generator output |
-| `screenshot_roadmap.png` | Study Roadmap with milestone checkboxes |
-| `screenshot_dashboard.png` | Dashboard with real session data populated |
+| ![screenshot_home.png](images/screenshot_home.png) | Home page with feature tiles and learning path selector |
+| ![screenshot_tutor.png](images/screenshot_tutor.png) | AI Tutor with a conversation in progress |
+| ![screenshot_quiz_answering.png](images/screenshot_quiz_answering.png) | Quiz with user answering (answers hidden) |
+| ![screenshot_quiz_revealed.png](images/screenshot_quiz_revealed.png) | Quiz after "Reveal Answers" with score shown |
+| ![screenshot_notes.png](images/screenshot_notes.png) | Notes Generator output |
+| ![screenshot_roadmap.png](images/screenshot_roadmap.png) | Study Roadmap with milestone checkboxes |
+| ![screenshot_dashboard.png](images/screenshot_dashboard.png) | Dashboard with real session data populated |
 
 ---
 
